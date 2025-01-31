@@ -26,4 +26,4 @@ Site profissional e responsivo para a **InovaTech Automação**, uma empresa esp
 
 1️⃣ **Clone o repositório:**  
 ```bash
-git clone https://github.com/FRANCISCODORSCHEIDT/inovatech-automacao.git
+git clone https://github.com/FRANCISCODORSCHEIDT/inovatechautomacao
